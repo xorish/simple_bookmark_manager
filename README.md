@@ -38,4 +38,4 @@ Please make sure to update tests as appropriate.
 ![plot](./sbm1.png)
 
 
-![plot](./smb2.png)
+![plot](./sbm2.png)
